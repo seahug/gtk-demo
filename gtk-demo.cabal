@@ -5,7 +5,7 @@ description:    Please see the README on GitHub at <https://github.com/seahug/gt
 homepage:       https://github.com/seahug/gtk-demo#readme
 bug-reports:    https://github.com/seahug/gtk-demo/issues
 author:         Richard Cook
-maintainer:     seahug@seahug.org
+maintainer:     rcook@rcook.org
 copyright:      2018 Richard Cook
 license:        MIT
 license-file:   LICENSE
